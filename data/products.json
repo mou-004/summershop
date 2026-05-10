@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.8,
+    "stock": 12,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "/products/sunglass.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Summer Straw Hat",
+    "brand": "CoolFit",
+    "price": 12,
+    "rating": 4.6,
+    "stock": 18,
+    "description": "Lightweight straw hat to protect you from the hot sun.",
+    "image": "/products/hats (1).jpg",
+    "category": "Fashion"
+  },
+  {
+    "id": 3,
+    "name": "Hydration Water Bottle",
+    "brand": "FreshGo",
+    "price": 10,
+    "rating": 4.7,
+    "stock": 25,
+    "description": "Leak-proof water bottle to keep you hydrated all day.",
+    "image": "/products/bottle.jpg",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 4,
+    "name": "SPF 50 Sunscreen",
+    "brand": "SkinCare",
+    "price": 14,
+    "rating": 4.9,
+    "stock": 20,
+    "description": "Premium sunscreen with SPF 50 for strong UV protection.",
+    "image": "/products/sunscreen.webp",
+    "category": "Skincare"
+  },
+  {
+    "id": 5,
+    "name": "Beach Sandals",
+    "brand": "WalkPro",
+    "price": 18,
+    "rating": 4.5,
+    "stock": 16,
+    "description": "Comfortable sandals designed for beach and casual wear.",
+    "image": "/products/sanals.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 6,
+    "name": "Cooling T-Shirt",
+    "brand": "AirWear",
+    "price": 20,
+    "rating": 4.6,
+    "stock": 14,
+    "description": "Breathable cooling t-shirt ideal for summer days.",
+    "image": "/products/tshirt.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "Portable Mini Fan",
+    "brand": "BreezeUp",
+    "price": 17,
+    "rating": 4.7,
+    "stock": 22,
+    "description": "USB rechargeable mini fan for instant cooling.",
+    "image": "/products/fan.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "name": "Travel Backpack",
+    "brand": "TripGo",
+    "price": 28,
+    "rating": 4.8,
+    "stock": 10,
+    "description": "Spacious backpack for summer travel and outdoor trips.",
+    "image": "/products/backpack.webp",
+    "category": "Bags"
+  },
+  {
+    "id": 9,
+    "name": "Polarized Sunglasses",
+    "brand": "VisionX",
+    "price": 22,
+    "rating": 4.9,
+    "stock": 11,
+    "description": "Premium polarized sunglasses with modern style.",
+    "image": "/products/polarized.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "name": "Beach Towel",
+    "brand": "SoftWave",
+    "price": 16,
+    "rating": 4.5,
+    "stock": 19,
+    "description": "Soft and quick-dry towel perfect for beach days.",
+    "image": "/products/towel.jpg",
+    "category": "Home & Travel"
+  }
+]
