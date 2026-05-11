@@ -1,10 +1,8 @@
-export const runtime = "edge";
-
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 import { getToken } from "next-auth/jwt";
 
-export async function proxy(req: NextRequest) {
+export async function middleware(req: NextRequest) {
   const token = await getToken({
     req,
     secret: process.env.NEXTAUTH_SECRET,
@@ -12,10 +10,7 @@ export async function proxy(req: NextRequest) {
 
   const { pathname } = req.nextUrl;
 
-  const protectedRoutes = [
-    "/my-profile",
-    "/update-profile",
-  ];
+  const protectedRoutes = ["/my-profile", "/update-profile"];
 
   const isProtected = protectedRoutes.some((route) =>
     pathname.startsWith(route)
